@@ -6,9 +6,7 @@ Cám ơn các bạn thời gian qua đã ủng hộ mình. Có một vài thứ 
 
 2: Bản AUTO_REG.dll này là cho version 2.110 của ATTool do đó, các bạn chọn đúng version mới chạy đuợc
 
-3: Có lẽ cái tool này cũng khá lâu rồi, nên chắc là đủ với số tiền bạn bỏ ra. Do đó, tôi quyết định không obfuscator source nữa :) (tin vui cho các cracker). Đồng thời chỉ update một số cái khi tôi rảnh rỗi thôi, mong bạn thông cảm.
-
-4: Chân thành cám ơn
+3: Chân thành cám ơn
 
 -SilverWolf-
 

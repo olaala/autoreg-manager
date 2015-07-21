@@ -1,0 +1,1 @@
+Plugin version and auto update
